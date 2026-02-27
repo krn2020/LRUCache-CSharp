@@ -1,0 +1,14 @@
+D:\projects\LRUCacheDemo\LRUCacheDemo\bin\Debug\net10.0\LRUCacheDemo.exe
+D:\projects\LRUCacheDemo\LRUCacheDemo\bin\Debug\net10.0\LRUCacheDemo.deps.json
+D:\projects\LRUCacheDemo\LRUCacheDemo\bin\Debug\net10.0\LRUCacheDemo.runtimeconfig.json
+D:\projects\LRUCacheDemo\LRUCacheDemo\bin\Debug\net10.0\LRUCacheDemo.dll
+D:\projects\LRUCacheDemo\LRUCacheDemo\bin\Debug\net10.0\LRUCacheDemo.pdb
+D:\projects\LRUCacheDemo\LRUCacheDemo\obj\Debug\net10.0\LRUCacheDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\LRUCacheDemo\LRUCacheDemo\obj\Debug\net10.0\LRUCacheDemo.AssemblyInfoInputs.cache
+D:\projects\LRUCacheDemo\LRUCacheDemo\obj\Debug\net10.0\LRUCacheDemo.AssemblyInfo.cs
+D:\projects\LRUCacheDemo\LRUCacheDemo\obj\Debug\net10.0\LRUCacheDemo.csproj.CoreCompileInputs.cache
+D:\projects\LRUCacheDemo\LRUCacheDemo\obj\Debug\net10.0\LRUCacheDemo.dll
+D:\projects\LRUCacheDemo\LRUCacheDemo\obj\Debug\net10.0\refint\LRUCacheDemo.dll
+D:\projects\LRUCacheDemo\LRUCacheDemo\obj\Debug\net10.0\LRUCacheDemo.pdb
+D:\projects\LRUCacheDemo\LRUCacheDemo\obj\Debug\net10.0\LRUCacheDemo.genruntimeconfig.cache
+D:\projects\LRUCacheDemo\LRUCacheDemo\obj\Debug\net10.0\ref\LRUCacheDemo.dll
